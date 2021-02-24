@@ -20,10 +20,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="con" path="WOFramework/H2PlugIn"/>
-	<classpathentry kind="con" path="WOFramework/JavaERJDBCAdaptor"/>
-	<classpathentry kind="con" path="WOFramework/JavaFSAdaptor"/>
-	<classpathentry kind="con" path="WOFramework/JavaLuceneAdaptor"/>
-	<classpathentry kind="con" path="WOFramework/JavaNeo4JAdaptor"/>
 	<classpathentry kind="lib" path="Libraries/postgresql-42.1.1.jar"/>
 	<classpathentry kind="con" path="WOFramework/PostgresqlPlugIn"/>
 	<classpathentry kind="output" path="bin"/>
