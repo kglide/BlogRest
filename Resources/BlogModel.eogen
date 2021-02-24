@@ -1,0 +1,11 @@
+/Library/WebObjects/System/Library/WebObjects/WODocumentRoot/WebObjects/Frameworks/JavaEOGeneration.framework/WebServerResources/Java/JavaEOGeneration.jar \
+ -destination Sources \
+ -extension java \
+ -java \
+ -javaTemplate _WonderEntity.java \
+ -model Resources/BlogModel.eomodeld \
+ -packagedirs \
+ -subclassDestination Sources \
+ -subclassJavaTemplate WonderEntity.java \
+ -verbose \
+ -loadModelGroup
